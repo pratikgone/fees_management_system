@@ -25,20 +25,17 @@ This project includes user authentication, course management, fee collection, an
 
 ## 🖼️ Screenshots
 
-### 🔑 Login Page
-![Login Page](screenshots/login.png)
-
 ### 📝 Signup Page
-![Signup Page](screenshots/signup.png)
+![Signup Page](Screenshot(5).png)
+
+### 🔑 Login Page
+![Login Page](Screenshot(8).png)
 
 ### 🏠 Home/Dashboard
-![Home Page](screenshots/home.png)
+![Home Page](Screenshot(9).png)
 
 ### 💵 Add Fees Form
-![Add Fees](screenshots/addfees.png)
-
-### 🧾 Receipt Example
-![Receipt](screenshots/receipt.png)
+![Add Fees](Screenshot(11).png)
 
 ---
 
