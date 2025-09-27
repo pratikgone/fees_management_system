@@ -26,7 +26,7 @@ This project includes user authentication, course management, fee collection, an
 ## 🖼️ Screenshots
 
 ### 📝 Signup Page
-![Signup Page](Screenshot(5).png)
+![Signup Page](https://github.com/pratikgone/fees_management_system/blob/b9d17c48b7817ef6ab81488a54ec90987fb61a5b/Screenshot%20(5).png)
 
 ### 🔑 Login Page
 ![Login Page](Screenshot(8).png)
