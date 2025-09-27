@@ -35,7 +35,7 @@ This project includes user authentication, course management, fee collection, an
 ![Home Page](https://github.com/pratikgone/fees_management_system/blob/23c3eefb47c07c4b0938f1b33f86e43fab392ed3/Screenshot%20(9).png)
 
 ### 💵 Add Fees Form
-![Add Fees](Screenshot(11).png)
+![Add Fees](https://github.com/pratikgone/fees_management_system/blob/f1665b3e6ca0abaa2c94d5e2d0c03398b4dfa5f9/Screenshot%20(11).png)
 
 ---
 
